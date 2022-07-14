@@ -1,6 +1,6 @@
 {
   "name": "dracule-mihawk",
-  "version": "1.0.0",
+  "version": "4.1.0",
   "description": "Bot Kok Wangsap",
   "main": "connect/index.js",
   "type": "commonjs",
